@@ -1,6 +1,6 @@
 # kharcha
 
-A new Flutter project.
+basically kharcha is a personal expense tracker for the week,where we can add our daily expenses and we can show the totale expense of the week.
 
 ## Getting Started
 
